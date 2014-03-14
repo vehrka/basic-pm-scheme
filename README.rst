@@ -12,6 +12,7 @@ Contents::
     │   │   ├── change_log.rst
     │   │   ├── issue_log.rst
     │   │   ├── minutes
+    │   │       └── date_meet_topic.rst
     │   │   ├── notes
     │   │   └── project_logbook.rst
     │   ├── plans
