@@ -21,7 +21,7 @@ DATE - TOPIC
 |                               | client_2     |
 +-------------------------------+--------------+
 
-.. tabularcolumns:: |p{7.5cm}|p{3.5cm}|p{3.5cm}|
+.. tabularcolumns:: |p{7.5cm}|p{2.5cm}|p{3.5cm}|
 
 +----------------------------+------------+-----------------------+
 | **Asistentes:**            | **Fecha:** | **Lugar de reunión:** |
@@ -30,7 +30,7 @@ DATE - TOPIC
 | attendant_2 (at2_initials) |            |                       |
 +----------------------------+------------+-----------------------+
 
-.. tabularcolumns:: |p{13.5cm}|
+.. tabularcolumns:: |p{7cm}|p{3cm}|p{3.5cm}|
 
 +--------------------------------+------------------+---------------+
 | **Conclusiones y decisiones:** | **Responsable**  | **Fecha**     |
@@ -48,7 +48,7 @@ DATE - TOPIC
 | edition_date          | version      |
 +-----------------------+--------------+
 
-.. tabularcolumns:: |p{13.5cm}|
+.. tabularcolumns:: |p{5.5cm}|
 
 +--------------------------------------+
 | **Comunicar cambios a:**             |
